@@ -1,4 +1,4 @@
-# MetodologiaAgil
+# Metodologis ágiles
 
 Tarea en **GitHub Classroom** para investigar `Scrum` y las `metodologías ágiles` en general.
 
